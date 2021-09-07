@@ -173,6 +173,22 @@ The data files (databases) are licensed under an [Open Data Commons Public Domai
 
 <!-- </license> -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/datasets/male-first-names-en`][@stdlib/datasets/male-first-names-en]: A list of common male first names in English speaking countries.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -230,6 +246,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [given-name]: https://en.wikipedia.org/wiki/Given_name
 
 [@ward:2002a]: http://www.gutenberg.org/files/3201/3201.txt
+
+<!-- <related-links> -->
+
+[@stdlib/datasets/male-first-names-en]: https://github.com/stdlib-js/datasets-male-first-names-en
+
+<!-- </related-links> -->
 
 </section>
 
